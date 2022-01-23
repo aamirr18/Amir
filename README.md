@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aamirr18
-- 👀 I’m interested in ... Web developement, Data Science, Machine learning, Automation...
+- 👀 I’m interested in ... Web developement, App Development, Data Science, Machine learning, Automation...
 - 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me mohdamir1116@gmail.com
